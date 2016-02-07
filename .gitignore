@@ -1,0 +1,7 @@
+*.pyc
+*.log
+*.sql
+*.sqlite
+*.swp
+*__pycache__*
+*.ipynb_checkpoints*
